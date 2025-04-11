@@ -1,0 +1,5 @@
+streamlit
+rembg
+Pillow
+py2app
+tqdm
