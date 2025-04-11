@@ -1,4 +1,36 @@
-.idea
+# =========================
+# Python
+# =========================
 __pycache__/
-venv
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.env
+.venv/
+
+# If you're using pipenv or poetry, you might ignore these too:
+# Pipenv
+Pipfile.lock
+# Poetry
+poetry.lock
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Misc
+# =========================
+*.log
 full-code.py
